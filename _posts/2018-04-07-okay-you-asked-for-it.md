@@ -1,6 +1,6 @@
 ---
 title:  "Okay. You asked for it."
-date:   2018-04-07 00:00:00 +0000
+date:   2018-04-07
 ---
 It's been a crazy fucking year in ##Politics-Uncensored. One of our founders, Erasmus, resigned his position suddenly and without warning.  This was probably my fault because i can be a psychotic bitch when I'm not on my meds, but even now I feel as if my position was entirely justified.
 

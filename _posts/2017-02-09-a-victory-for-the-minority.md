@@ -1,6 +1,6 @@
 ---
 title:  "##Politics-Uncensored – A victory for the minority"
-date:   2017-02-09 00:00:00 +0000
+date:   2017-02-09
 ---
 Summary:
 

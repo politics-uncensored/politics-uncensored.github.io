@@ -1,10 +1,10 @@
 ---
 permalink: /channel-guidelines/
-title:  "Channel Guidelines"
-last_modified_at: 2019-12-10T00:00:00+00:00
-toc: true
+title:     "Channel Guidelines"
+toc:       true
 toc_label: Table of Contents
-toc_icon: jedi
+toc_icon:  jedi
+last_modified_at: 2019-12-11
 ---
 
 🚨 Entry to this channel implies your agreement to obey [freenode™ server policies](https://freenode.net/policies) or Terms of Service (ToS), as well as channel rules, policies, and guidelines.
@@ -63,12 +63,11 @@ Please help us promote free and open dialogue in a healthy and constructive mann
 4. Bots & Scripts are not permitted.
 5. All users are expected to report ToS violations to channel ops. All reports are treated as confidential.
 6. Public logging of this channel is discouraged.
-7. Channel stats are available [here](https://rednsx.org/irc/politics-uncensored).
-8. All reports of ToS violations will be investigated utilizing official channel or server op logs only.
-9. Any action taken upon any complaint/report is private and will not be discussed or reviewed with the reporter.
-10. Reports are confidential.
-11. Do not expect ANY overt response to ANY report.
-12. Administrative preemption: Any user deemed to be Disruptive™ will be quieted, de-voiced, and/or removed from the channel without notice and without recourse.
+7. All reports of ToS violations will be investigated utilizing official channel or server op logs only.
+8. Any action taken upon any complaint/report is private and will not be discussed or reviewed with the reporter.
+9. Reports are confidential.
+10. Do not expect ANY overt response to ANY report.
+11. Administrative preemption: Any user deemed to be Disruptive™ will be quieted, de-voiced, and/or removed from the channel without notice and without recourse.
 
 ## 5. Server Rules
 

@@ -1,6 +1,6 @@
 ---
 title:  "The winds of change"
-date:   2019-11-27 00:00:00 +0000
+date:   2019-11-27
 ---
 On November 22nd 2019 the founder of ##politics-uncensored (insomnia) handed command of the channel to Commander Palasso, effective immediately. Palasso is thereby promoted to Captain and insomnia demoted to Commander.
 
