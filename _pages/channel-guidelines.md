@@ -1,7 +1,7 @@
 ---
 permalink: /channel-guidelines/
 title:  "Channel Guidelines"
-last_modified_at: 2019-12-08T00:00:00+00:00
+last_modified_at: 2019-12-10T00:00:00+00:00
 toc: true
 toc_label: Table of Contents
 toc_icon: jedi
