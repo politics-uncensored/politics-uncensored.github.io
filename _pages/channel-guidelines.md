@@ -4,7 +4,7 @@ title:     "Channel Guidelines"
 toc:       true
 toc_label: Table of Contents
 toc_icon:  jedi
-last_modified_at: 2019-12-11
+last_modified_at: 2020-01-11
 ---
 
 🚨 Entry to this channel implies your agreement to obey [freenode™ server policies](https://freenode.net/policies) or Terms of Service (ToS), as well as channel rules, policies, and guidelines.
