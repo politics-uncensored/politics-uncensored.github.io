@@ -105,9 +105,10 @@ or risk losing `+o`.  We will not tolerate moderator actions for petty revenge.
 
 1. Bots of any type or utility not authorized by channel staff are not permitted.
 2. Wallet is a Doge Wallet bot. For more information please `/msg Wallet help`.
-3. Dr. Jekyll is the channel digital assistant.
-4. layer-3ight is a text substitution bot.
-5. Abuse of any channel bot is not tolerated.
+3. GunsRGood is our bot to hunt or befriend ducks.
+4. Dr. Jekyll is the channel digital assistant.
+5. layer-3ight is a text substitution bot.
+6. Abuse of any channel bot is not tolerated.
 
 ### Wallet
 
@@ -121,6 +122,13 @@ or risk losing `+o`.  We will not tolerate moderator actions for petty revenge.
 6. `.balances` - Check ALL coin balances. (wallet can hold multiple digital currencies.)
 7. `.tip <user> <amount>` - removes `<amount>` from YOUR balance and gives it to `<user>`.
 8. The "gambling" system employed by Wallet may be restricted or illegal in some municipalities.  
+
+### GunsRGood
+[Official Duckhunt Documentation](http://www.matcatgames.com/duckhunt/)
+
+It's hunting season. Shoot as many ducks as you can. How you ask? To shoot a duck you would simply type `@bang 8` Remember that the macro-key 8 will be random with every duck!
+
+You say you care about the environment? We hear ya! Save the duck before someone shoots it by befriending it! To befriend a duck type: `@befr 8`
 
 ### DrJekyll
 
