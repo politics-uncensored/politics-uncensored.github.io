@@ -4,7 +4,7 @@ title:     "Channel Guidelines"
 toc:       true
 toc_label: Table of Contents
 toc_icon:  jedi
-last_modified_at: 2020-01-11
+last_modified_at: 2020-01-29
 ---
 
 🚨 Entry to this channel implies your agreement to obey [freenode™ server policies](https://freenode.net/policies) or Terms of Service (ToS), as well as channel rules, policies, and guidelines.
@@ -26,8 +26,8 @@ A U.S.-centric political discussion channel founded on August 7 2016. We encoura
 
 | Rank                 	|     Nick 	|
 |----------------------	|---------:	|
-| Captain              	|  palasso 	|
-| Commander            	| insomnia 	|
+| Captain              	| insomnia 	|
+| Commander            	|  palasso 	|
 | Lieutenant Commander 	|  burrito 	|
 | Lieutenant           	|      mst 	|
 | Ensign               	|    Dillo 	|
