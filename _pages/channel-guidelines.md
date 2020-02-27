@@ -26,11 +26,12 @@ A U.S.-centric political discussion channel founded on August 7 2016. We encoura
 
 | Rank                 	|     Nick 	|
 |----------------------	|---------:	|
-| Captain              	| insomnia 	|
-| Commander            	|  palasso 	|
+| Captain              	|  palasso 	|
+| Commander            	| insomnia 	|
 | Lieutenant Commander 	|  burrito 	|
 | Lieutenant           	|      mst 	|
 | Ensign               	|    Dillo 	|
+| Ensign               	|     CC66 	|
 
 ## 2. Mission Statement
 
