@@ -6,7 +6,7 @@ A few weeks ago, while I was on a business trip and busy with real life, insomni
 
 We live at times where society is moving towards more authoritarian ideologies. Unfortunately fanaticism and tribalism are prevailing both in the west and in the east for different reasons. Freedom of thought, speech and expression are always important but at times like these they are crucial. If we subjugate ourselves to censorship we let ignorance and zealotry to prevail. Some say history repeats itself. I hope that we can prevent the dark ages happening again.
 
-For this reason, preserving the channel is a worthwhile and important goal and I hope we can achieve it. Despite the increased political censorship in our lives, I am optimistic whenever I read other people [stating](https://www.privateinternetaccess.com/blog/2019/11/the-continually-evolving-fight-for-freedom/) the same goal that we are many out there ready to challenge the status quo of censorship. After all the *free* in freenode is "free as in freedom" not "free as in beer".
+For this reason, preserving the channel is a worthwhile and important goal and I hope we can achieve it. Despite the increased political censorship in our lives, I am optimistic whenever I read other people [stating](https://www.privateinternetaccess.com/blog/2019/11/the-continually-evolving-fight-for-freedom/) the same goal we have and I believe that we are many out there ready to challenge the status quo of censorship. After all the *free* in freenode is "free as in freedom" not "free as in beer".
 
 — palasso
 
