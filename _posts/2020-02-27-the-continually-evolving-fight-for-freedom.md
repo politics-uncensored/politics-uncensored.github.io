@@ -12,4 +12,4 @@ For this reason, preserving the channel is a worthwhile and important goal and I
 
 P.S.1: We will have new announcements if there are any new radical developments
 
-P.S.2: We have established a backup/sister channel #Politics-Uncensored on irc.rizon.net/6667
+P.S.2: We have established a backup/sister channel #Politics-Uncensored on irc.rizon.net
