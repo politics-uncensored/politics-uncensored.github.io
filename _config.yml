@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: '##Politics-Uncensored'
+title: '#Politics-Uncensored'
 subtitle: Bring your Xanax, shit's about to get intense.
 url: https://politics-uncenso.red
 email: anger@anger.zone
@@ -61,7 +61,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "##Politics-Uncensored"
+  name   : "#Politics-Uncensored"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
 
