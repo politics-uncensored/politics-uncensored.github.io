@@ -105,7 +105,7 @@ A #Politics-Uncensored Caveat which (once invoked), is equivalent to throwing do
 
 1. (n) Money or any other valuable consideration given or promised with a view to corrupting the behavior of a person., or
 2. Gleefully accepted by channel Captain and Commander. (Only applicable to these two Sr. Staff positions in perpetuity.)
-3. Special consideration bribes have a mandatory minimum of 1 million doge.
+3. Special consideration bribes have a mandatory minimum of 15,000 DOGE.
 
 ### @pyramid
 
