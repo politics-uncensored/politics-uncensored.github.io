@@ -1,10 +1,11 @@
 <!doctype html>
 <!--
-  Minimal Mistakes Jekyll Theme 4.23.0 by Michael Rose
-  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Minimal Mistakes Jekyll Theme 4.27.3 by Michael Rose
+  Copyright 2013-2025 Michael Rose - mademistakes.com | @mmistakes
   Free for personal and commercial use under the MIT license
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
 -->
+
 <html lang="en" class="no-js">
   <head>
     <meta charset="utf-8">
@@ -42,16 +43,7 @@
 
 
 
-<script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    
-      "@type": "Person",
-      "name": null,
-      "url": "http://localhost:4000/"
-    
-  }
-</script>
+
 
 
 
@@ -64,33 +56,18 @@
 
 
   <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="#Politics-Uncensored Feed">
-
-
-<!-- https://t.co/dKP3o1e -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  
 </script>
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
 
-<!--[if IE]>
-  <style>
-    /* old IE unsupported flexbox fixes */
-    .greedy-nav .site-title {
-      padding-right: 3em;
-    }
-    .greedy-nav button {
-      position: absolute;
-      top: 0;
-      right: 0;
-      height: 100%;
-    }
-  </style>
-<![endif]-->
 
 
     <!-- start custom head snippets -->
@@ -101,19 +78,14 @@
 
   </head>
 
-  <body class="layout--single">
+  <body class="layout--single" dir="ltr">
     <nav class="skip-links">
-  <h2 class="screen-reader-text">Skip links</h2>
   <ul>
     <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
     <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
     <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
   </ul>
 </nav>
-
-    <!--[if lt IE 9]>
-<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
-<![endif]-->
 
     
 
@@ -124,21 +96,25 @@
         
         <a class="site-title" href="/">
           #Politics-Uncensored
-          <span class="site-subtitle">Bring your Xanax, shit's about to get intense.</span>
+          <span class="site-subtitle">Bring your Xanax, shit&#39;s about to get intense.</span>
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/channel-guidelines/">Guidelines</a>
+              <a
+                href="/channel-guidelines/"
+                
+                
+              >Guidelines</a>
             </li><li class="masthead__menu-item">
-              <a href="/announcements/">Announcements</a>
-            </li><li class="masthead__menu-item">
-              <a href="https://rednsx.org/irc/politics-uncensored">Statistics</a>
+              <a
+                href="/announcements/"
+                
+                
+              >Announcements</a>
             </li></ul>
         
         <button class="search__toggle" type="button">
           <span class="visually-hidden">Toggle search</span>
-          <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">
-            <path d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z" transform="translate(-.01)"></path>
-          </svg>
+          <i class="fas fa-search"></i>
         </button>
         
         <button class="greedy-nav__toggle hidden" type="button">
@@ -157,6 +133,8 @@
 
 
 
+
+
 <div id="main" role="main">
   
 
@@ -170,8 +148,10 @@
     <div class="page__inner-wrap">
       
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">Channel Guidelines
-</h1>
+          <h1 id="page-title" class="page__title" itemprop="headline">
+            <a href="http://localhost:4000/channel-guidelines/" itemprop="url">Channel Guidelines
+</a>
+          </h1>
           
 
   <p class="page__meta">
@@ -201,8 +181,7 @@
           <aside class="sidebar__right ">
             <nav class="toc">
               <header><h4 class="nav__title"><i class="fas fa-jedi"></i> Table of Contents</h4></header>
-              <ul class="toc__menu"><li><a href="#welcome-to-politics-uncensored">Welcome to #Politics-Uncensored</a><ul><li><a href="#1-technical-rules">1. Technical Rules</a></li><li><a href="#2-operator-actions">2. Operator Actions</a></li><li><a href="#3-operatormoderator-rules">3. Operator/Moderator rules</a></li><li><a href="#4-bots">4. Bots</a><ul><li><a href="#walletbot">WalletBot</a></li><li><a href="#keyser">keyser</a></li><li><a href="#text-substitution">Text Substitution</a></li></ul></li><li><a href="#5-caveats">5. Caveats</a><ul><li><a href="#godwin">@godwin</a></li><li><a href="#noway">@noway</a></li><li><a href="#bribe">@bribe</a></li><li><a href="#pyramid">@pyramid</a></li></ul></li></ul></li></ul>
-
+              <ul class="toc__menu"><li><a href="#welcome-to-politics-uncensored">Welcome to #Politics-Uncensored</a><ul><li><a href="#1-technical-rules">1. Technical Rules</a></li><li><a href="#2-operator-actions">2. Operator Actions</a></li><li><a href="#3-operatormoderator-rules">3. Operator/Moderator rules</a></li><li><a href="#4-bots">4. Bots</a><ul><li><a href="#keyser">keyser</a></li><li><a href="#text-substitution">Text Substitution</a></li></ul></li><li><a href="#5-caveats">5. Caveats</a><ul><li><a href="#godwin">@godwin</a></li><li><a href="#noway">@noway</a></li><li><a href="#bribe">@bribe</a></li><li><a href="#pyramid">@pyramid</a></li></ul></li></ul></li></ul>
             </nav>
           </aside>
         
@@ -235,7 +214,7 @@
 <h2 id="2-operator-actions">2. Operator Actions</h2>
 
 <ol>
-  <li>We employ an <code class="language-plaintext highlighter-rouge">@iban</code> system to discourage unhelpful contributions to channel discussions and a Doge Wallet system to positively reinforce valuable contribution to channel discussions.</li>
+  <li>We employ an <code class="language-plaintext highlighter-rouge">@iban</code> system to discourage unhelpful contributions to channel discussions.</li>
   <li>An <code class="language-plaintext highlighter-rouge">@iban</code> is issued as a ban, but functions as a <code class="language-plaintext highlighter-rouge">+q</code> or quiet.  The user is still permitted to be present in channel, but is simply unable to contribute to the conversation for a period of time.  The user is effectively “put in the corner” to think about what they’ve said and, the manner in which they’ve expressed it.</li>
   <li>If you receive an <code class="language-plaintext highlighter-rouge">@iban</code> moderation action, please note the numerical limit of the action.  The number is representative of seconds, so <code class="language-plaintext highlighter-rouge">@iban</code> value of 120 is only a two-minute quiet.  There is no need to “ragequit” for a simple/short <code class="language-plaintext highlighter-rouge">@iban</code> ; simply compose yourself and defend your position in a more civilized manner.</li>
   <li>Respect decisions by channel and server staff and do not disrupt the channel.  If you disagree with an operator action please discuss privately with the operator in PM.  However, please note that you are not entitled to any response under any circumstances and repeated harassment will only lengthen your participation restriction.</li>
@@ -259,23 +238,8 @@
 
 <ol>
   <li>Bots of any type or utility not authorized by channel staff are not permitted.</li>
-  <li>WalletBot is a Doge Wallet bot. For more information please <code class="language-plaintext highlighter-rouge">/msg WalletBot help</code>.</li>
   <li>keyser is the channel digital assistant.</li>
   <li>Abuse of any channel bot is not tolerated.</li>
-</ol>
-
-<h3 id="walletbot">WalletBot</h3>
-
-<p class="notice--warning">🆘 PLEASE BE RESPONSIBLE.</p>
-<ol>
-  <li>WalletBot is effectively an anonymous banking system operated by Bill48105.</li>
-  <li>All issues with the bot are to be directed to Bill48105.</li>
-  <li>Information about <a href="https://dogecoin.com/">Dogecoin</a></li>
-  <li>Any monies deposited to your account are yours anonymously and you need not share your deposits, withdrawals, or balance to anyone for any reason.</li>
-  <li><code class="language-plaintext highlighter-rouge">.balance</code> - Check Doge balance.</li>
-  <li><code class="language-plaintext highlighter-rouge">.balances</code> - Check ALL coin balances. (wallet can hold multiple digital currencies.)</li>
-  <li><code class="language-plaintext highlighter-rouge">.tip &lt;user&gt; &lt;amount&gt;</code> - removes <code class="language-plaintext highlighter-rouge">&lt;amount&gt;</code> from YOUR balance and gives it to <code class="language-plaintext highlighter-rouge">&lt;user&gt;</code>.</li>
-  <li>The “gambling” system employed by WalletBot may be restricted or illegal in some municipalities.</li>
 </ol>
 
 <h3 id="keyser">keyser</h3>
@@ -345,14 +309,14 @@ If you say, “Hello rFiends!” in channel and wish to correct it, simply use: 
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2021-01-10">January 10, 2021</time></p>
-
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2021-01-10">January 10, 2021</time></p>
 
       </footer>
 
       
 
       
+
     </div>
 
     
@@ -362,11 +326,12 @@ If you say, “Hello rFiends!” in channel and wish to correct it, simply use: 
   
 </div>
 
+      
     </div>
 
     
       <div class="search-content">
-        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';" role="search">
     <label class="sr-only" for="search">
       Enter your search term...
     </label>
@@ -382,7 +347,9 @@ If you say, “Hello rFiends!” in channel and wish to correct it, simply use: 
         <!-- start custom footer snippets -->
 
 <!-- end custom footer snippets -->
-        <div class="page__footer-follow">
+        
+
+<div class="page__footer-follow">
   <ul class="social-icons">
     
 
@@ -394,7 +361,8 @@ If you say, “Hello rFiends!” in channel and wish to correct it, simply use: 
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2021 #Politics-Uncensored. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+<div class="page__footer-copyright">&copy; 2026 <a href="http://localhost:4000">#Politics-Uncensored</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
 
       </footer>
     </div>
@@ -408,7 +376,6 @@ If you say, “Hello rFiends!” in channel and wish to correct it, simply use: 
 <script src="/assets/js/lunr/lunr.min.js"></script>
 <script src="/assets/js/lunr/lunr-store.js"></script>
 <script src="/assets/js/lunr/lunr-en.js"></script>
-
 
 
 
