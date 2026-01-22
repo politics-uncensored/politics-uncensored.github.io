@@ -30,7 +30,7 @@ A U.S.-centric political discussion channel founded on August 7 2016. We encoura
 
 ## 2. Operator Actions
 
-1. We employ an `@iban` system to discourage unhelpful contributions to channel discussions and a Doge Wallet system to positively reinforce valuable contribution to channel discussions.
+1. We employ an `@iban` system to discourage unhelpful contributions to channel discussions.
 2. An `@iban` is issued as a ban, but functions as a `+q` or quiet.  The user is still permitted to be present in channel, but is simply unable to contribute to the conversation for a period of time.  The user is effectively "put in the corner" to think about what they've said and, the manner in which they've expressed it.
 3. If you receive an `@iban` moderation action, please note the numerical limit of the action.  The number is representative of seconds, so `@iban` value of 120 is only a two-minute quiet.  There is no need to "ragequit" for a simple/short `@iban` ; simply compose yourself and defend your position in a more civilized manner.
 4. Respect decisions by channel and server staff and do not disrupt the channel.  If you disagree with an operator action please discuss privately with the operator in PM.  However, please note that you are not entitled to any response under any circumstances and repeated harassment will only lengthen your participation restriction.
@@ -48,22 +48,8 @@ A U.S.-centric political discussion channel founded on August 7 2016. We encoura
 ## 4. Bots
 
 1. Bots of any type or utility not authorized by channel staff are not permitted.
-2. WalletBot is a Doge Wallet bot. For more information please `/msg WalletBot help`.
-3. keyser is the channel digital assistant.
-4. Abuse of any channel bot is not tolerated.
-
-### WalletBot
-
-🆘 PLEASE BE RESPONSIBLE.
-{: .notice--warning}
-1. WalletBot is effectively an anonymous banking system operated by Bill48105.
-2. All issues with the bot are to be directed to Bill48105.
-3. Information about [Dogecoin](https://dogecoin.com/)
-4. Any monies deposited to your account are yours anonymously and you need not share your deposits, withdrawals, or balance to anyone for any reason.
-5. `.balance` - Check Doge balance.
-6. `.balances` - Check ALL coin balances. (wallet can hold multiple digital currencies.)
-7. `.tip <user> <amount>` - removes `<amount>` from YOUR balance and gives it to `<user>`.
-8. The "gambling" system employed by WalletBot may be restricted or illegal in some municipalities.
+2. keyser is the channel digital assistant.
+3. Abuse of any channel bot is not tolerated.
 
 ### keyser
 
